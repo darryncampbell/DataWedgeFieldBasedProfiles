@@ -1,6 +1,7 @@
-# DataWedge Field-Based Profiles
+*Please be aware that this application / sample is provided as-is for demonstration purposes without any guarantee of support*
+=========================================================
 
-### This application is provided without guarantee or waranty
+# DataWedge Field-Based Profiles
 
 Sample app to show how to mimic field based profile switching with DataWedge on Android:
 
